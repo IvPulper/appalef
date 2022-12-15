@@ -11,3 +11,364 @@ allowed character
 reached, you typed in  " + b + "characters"; 
   } 
 }
+function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}function cnt(event)
+{ 
+ document.getElementById("valmess2").innerHTML=""; // init and clear if b < max     
+allowed character 
+
+ a = document.getElementById("msgc").value; 
+ b = a.length; 
+ if (b > 400)
+  { 
+   document.getElementById("valmess2").innerHTML="the max length of 400 characters is 
+reached, you typed in  " + b + "characters"; 
+  } 
+}
